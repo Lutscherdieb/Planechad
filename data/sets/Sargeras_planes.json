@@ -1,0 +1,2519 @@
+{
+    "0": {
+        "ID": "0",
+        "Name": "Akros",
+        "Image": "/img/editions/Sargeras/Akros.jpg",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "1": {
+        "ID": "1",
+        "Name": "Alefi's Tavern",
+        "Image": "/img/editions/Sargeras/Alefi's Tavern.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Goad",
+            "Planeswalk",
+            "Upkeep"
+        ]
+    },
+    "2": {
+        "ID": "2",
+        "Name": "Apocrypha",
+        "Image": "/img/editions/Sargeras/Apocrypha.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "3": {
+        "ID": "3",
+        "Name": "Archmage's Chambers",
+        "Image": "/img/editions/Sargeras/Archmage's Chambers.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "4": {
+        "ID": "4",
+        "Name": "Arena of Heroes",
+        "Image": "/img/editions/Sargeras/Arena of Heroes.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Monarch",
+            "Damage",
+            "Fight"
+        ]
+    },
+    "5": {
+        "ID": "5",
+        "Name": "Azglor's Altar",
+        "Image": "/img/editions/Sargeras/Azglor's Altar.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Token",
+            "Sacrifice",
+            "Gain Mana",
+            "Tutor",
+            "Damage"
+        ]
+    },
+    "6": {
+        "ID": "6",
+        "Name": "Bala Thuul's Castle",
+        "Image": "/img/editions/Sargeras/Bala Thuul's Castle.jpg",
+        "Rating": [
+            3,
+            2,
+            6
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Monarch",
+            "End Step",
+            "Destroy",
+            "Clash",
+            "Graveyard",
+            "Put on battlefield"
+        ]
+    },
+    "7": {
+        "ID": "7",
+        "Name": "Balnazaar's Fortress",
+        "Image": "/img/editions/Sargeras/Balnazaar's Fortress.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Land",
+            "Gain Mana",
+            "Black",
+            "Lifegain",
+            "Damage"
+        ]
+    },
+    "8": {
+        "ID": "8",
+        "Name": "Bandit Citadel",
+        "Image": "/img/editions/Sargeras/Bandit Citadel.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Token",
+            "Legendary",
+            "Attack"
+        ]
+    },
+    "9": {
+        "ID": "9",
+        "Name": "Biovat Cluster",
+        "Image": "/img/editions/Sargeras/Biovat Cluster.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Token",
+            "+1/+1 Counter",
+            "Planeswalk"
+        ]
+    },
+    "10": {
+        "ID": "10",
+        "Name": "Breathtaking Vista",
+        "Image": "/img/editions/Sargeras/Breathtaking Vista.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "11": {
+        "ID": "11",
+        "Name": "Candyland",
+        "Image": "/img/editions/Sargeras/Candyland.jpg",
+        "Rating": [
+            3,
+            2,
+            6
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Planecounter",
+            "Mana"
+        ]
+    },
+    "12": {
+        "ID": "12",
+        "Name": "Carac Agaialor",
+        "Image": "/img/editions/Sargeras/Carac Agaialor.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Creature",
+            "Indestructible",
+            "Power",
+            "Damage"
+        ]
+    },
+    "13": {
+        "ID": "13",
+        "Name": "Catacombs of Viskar",
+        "Image": "/img/editions/Sargeras/Catacombs of Viskar.jpg",
+        "Rating": [
+            1,
+            1,
+            1
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "14": {
+        "ID": "14",
+        "Name": "Cliffs of Contradiction",
+        "Image": "/img/editions/Sargeras/Cliffs of Contradiction.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Manifest"
+        ]
+    },
+    "15": {
+        "ID": "15",
+        "Name": "Collective Genius",
+        "Image": "/img/editions/Sargeras/Collective Genius.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "16": {
+        "ID": "16",
+        "Name": "Councilor's Chambers",
+        "Image": "/img/editions/Sargeras/Councilor's Chambers.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "17": {
+        "ID": "17",
+        "Name": "Court of Loarderon",
+        "Image": "/img/editions/Sargeras/Court of Loarderon.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Monarch",
+            "Activate",
+            "Exile",
+            "CMC",
+            "Planeswalk"
+        ]
+    },
+    "18": {
+        "ID": "18",
+        "Name": "Dal'arbek Jungle",
+        "Image": "/img/editions/Sargeras/Dal'arbek Jungle.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Attack",
+            "+1/+1 Counter",
+            "Static Buff",
+            "Trample"
+        ]
+    },
+    "19": {
+        "ID": "19",
+        "Name": "Dal-Shan",
+        "Image": "/img/editions/Sargeras/Dal-Shan.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "20": {
+        "ID": "20",
+        "Name": "Dalaran",
+        "Image": "/img/editions/Sargeras/Dalaran.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Instant",
+            "Sorcery",
+            "Cost Reduction",
+            "Token",
+            "Artifact"
+        ]
+    },
+    "21": {
+        "ID": "21",
+        "Name": "Diabolic Intentions",
+        "Image": "/img/editions/Sargeras/Diabolic Intentions.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "22": {
+        "ID": "22",
+        "Name": "Doomraider's Encampment",
+        "Image": "/img/editions/Sargeras/Doomraider's Encampment.jpg",
+        "Rating": [
+            4,
+            2,
+            8
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "ETB",
+            "Haste",
+            "Trample",
+            "Token"
+        ]
+    },
+    "23": {
+        "ID": "23",
+        "Name": "Downfall of Tyranny",
+        "Image": "/img/editions/Sargeras/Downfall of Tyranny.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "24": {
+        "ID": "24",
+        "Name": "Emerald Dreams",
+        "Image": "/img/editions/Sargeras/Emerald Dreams.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "25": {
+        "ID": "25",
+        "Name": "Emeria",
+        "Image": "/img/editions/Sargeras/Emeria.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "26": {
+        "ID": "26",
+        "Name": "Esper",
+        "Image": "/img/editions/Sargeras/Esper.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "27": {
+        "ID": "27",
+        "Name": "Etiri's Factory",
+        "Image": "/img/editions/Sargeras/Etiri's Factory.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Planecounter",
+            "Artifact",
+            "Creature",
+            "Token",
+            "Destroy",
+            "CMC"
+        ]
+    },
+    "28": {
+        "ID": "28",
+        "Name": "Fangorn Keep",
+        "Image": "/img/editions/Sargeras/Fangorn Keep.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Vigilance",
+            "Library"
+        ]
+    },
+    "29": {
+        "ID": "29",
+        "Name": "Fjord of the Eclipse",
+        "Image": "/img/editions/Sargeras/Fjord of the Eclipse.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "30": {
+        "ID": "30",
+        "Name": "Flamewake",
+        "Image": "/img/editions/Sargeras/Flamewake.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Damage",
+            "Regenerate",
+            "Prevent Damage"
+        ]
+    },
+    "31": {
+        "ID": "31",
+        "Name": "Forge of Suns",
+        "Image": "/img/editions/Sargeras/Forge of Suns.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Sunburst",
+            "Counter",
+            "Gain Mana",
+            "White",
+            "Blue",
+            "Black",
+            "Red",
+            "Green",
+            "Artifact"
+        ]
+    },
+    "32": {
+        "ID": "32",
+        "Name": "Fortress of Jin-Gitaxius",
+        "Image": "/img/editions/Sargeras/Fortress of Jin-Gitaxius.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Discard",
+            "Planeswalk",
+            "Draw"
+        ]
+    },
+    "33": {
+        "ID": "33",
+        "Name": "Gaea's Sanctuary",
+        "Image": "/img/editions/Sargeras/Gaea's Sanctuary.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "34": {
+        "ID": "34",
+        "Name": "Gift of the Gods",
+        "Image": "/img/editions/Sargeras/Gift of the Gods.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Lifegain",
+            "Graveyard"
+        ]
+    },
+    "35": {
+        "ID": "35",
+        "Name": "Gloomwood",
+        "Image": "/img/editions/Sargeras/Gloomwood.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Shroud",
+            "Token",
+            "Planeswalk",
+            "Untap Step"
+        ]
+    },
+    "36": {
+        "ID": "36",
+        "Name": "Goblin War Tunnels",
+        "Image": "/img/editions/Sargeras/Goblin War Tunnels.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Menace",
+            "Upkeep",
+            "Planecounter",
+            "Token",
+            "Destroy",
+            "Artifact"
+        ]
+    },
+    "37": {
+        "ID": "37",
+        "Name": "Grand Necromancy",
+        "Image": "/img/editions/Sargeras/Grand Necromancy.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Put on battlefield",
+            "Graveyard",
+            "Black"
+        ]
+    },
+    "38": {
+        "ID": "38",
+        "Name": "Grand Workshop",
+        "Image": "/img/editions/Sargeras/Grand Workshop.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Improvise",
+            "Tutor"
+        ]
+    },
+    "39": {
+        "ID": "39",
+        "Name": "Great Benevolence",
+        "Image": "/img/editions/Sargeras/Great Benevolence.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Draw",
+            "Lifegain",
+            "Token",
+            "Defender"
+        ]
+    },
+    "40": {
+        "ID": "40",
+        "Name": "Greed's Domain",
+        "Image": "/img/editions/Sargeras/Greed's Domain.jpg",
+        "Rating": [
+            2,
+            2,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Sacrifice",
+            "Gain Mana"
+        ]
+    },
+    "41": {
+        "ID": "41",
+        "Name": "Grove of Horizons",
+        "Image": "/img/editions/Sargeras/Grove of Horizons.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Indestructible",
+            "Land",
+            "Counter"
+        ]
+    },
+    "42": {
+        "ID": "42",
+        "Name": "Hall of Bones",
+        "Image": "/img/editions/Sargeras/Hall of Bones.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Draw",
+            "Damage",
+            "Black",
+            "Static Buff",
+            "Lifegain",
+            "Graveyard"
+        ]
+    },
+    "43": {
+        "ID": "43",
+        "Name": "Hall of Confusion",
+        "Image": "/img/editions/Sargeras/Hall of Confusion.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "44": {
+        "ID": "44",
+        "Name": "Hall of Humility",
+        "Image": "/img/editions/Sargeras/Hall of Humility.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Power",
+            "Toughness",
+            "Sacrifice"
+        ]
+    },
+    "45": {
+        "ID": "45",
+        "Name": "Hall of Mirrors",
+        "Image": "/img/editions/Sargeras/Hall of Mirrors.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Myriad",
+            "Token",
+            "Copy"
+        ]
+    },
+    "46": {
+        "ID": "46",
+        "Name": "Hall of Torment",
+        "Image": "/img/editions/Sargeras/Hall of Torment.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Draw",
+            "Discard",
+            "Wheel"
+        ]
+    },
+    "47": {
+        "ID": "47",
+        "Name": "Heartwood Arbor",
+        "Image": "/img/editions/Sargeras/Heartwood Arbor.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "48": {
+        "ID": "48",
+        "Name": "High Temple of Bontu",
+        "Image": "/img/editions/Sargeras/High Temple of Bontu.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "49": {
+        "ID": "49",
+        "Name": "High Temple of Hazoret",
+        "Image": "/img/editions/Sargeras/High Temple of Hazoret.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Discard",
+            "Haste",
+            "Hand Cards",
+            "Damage"
+        ]
+    },
+    "50": {
+        "ID": "50",
+        "Name": "High Temple of Kefnet",
+        "Image": "/img/editions/Sargeras/High Temple of Kefnet.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Draw"
+        ]
+    },
+    "51": {
+        "ID": "51",
+        "Name": "High Temple of Oketra",
+        "Image": "/img/editions/Sargeras/High Temple of Oketra.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "52": {
+        "ID": "52",
+        "Name": "High Temple of Rhonas",
+        "Image": "/img/editions/Sargeras/High Temple of Rhonas.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Power",
+            "Attack",
+            "Token"
+        ]
+    },
+    "53": {
+        "ID": "53",
+        "Name": "Higher Conscious",
+        "Image": "/img/editions/Sargeras/Higher Conscious.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plot Point",
+            "Planar Die"
+        ]
+    },
+    "54": {
+        "ID": "54",
+        "Name": "Ice Caves of Kzeldurad",
+        "Image": "/img/editions/Sargeras/Ice Caves of Kzeldurad.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Cast",
+            "Counter Spell",
+            "Untap Step",
+            "Stax"
+        ]
+    },
+    "55": {
+        "ID": "55",
+        "Name": "Ice Veil of Shakur",
+        "Image": "/img/editions/Sargeras/Ice Veil of Shakur.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "56": {
+        "ID": "56",
+        "Name": "Iseroth, The Forgotten Kingdom",
+        "Image": "/img/editions/Sargeras/Iseroth, The Forgotten Kingdom.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Reveal",
+            "Plane",
+            "Token",
+            "Flying",
+            "Library",
+            "Cast"
+        ]
+    },
+    "57": {
+        "ID": "57",
+        "Name": "Isperia's Citadel",
+        "Image": "/img/editions/Sargeras/Isperia's Citadel.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Detain",
+            "Upkeep",
+            "+1/+1 Counter",
+            "Hand Cards"
+        ]
+    },
+    "58": {
+        "ID": "58",
+        "Name": "Kessig Woodlands",
+        "Image": "/img/editions/Sargeras/Kessig Woodlands.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Trample",
+            "Token",
+            "Activate"
+        ]
+    },
+    "59": {
+        "ID": "59",
+        "Name": "Kingdom at War",
+        "Image": "/img/editions/Sargeras/Kingdom at War.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "60": {
+        "ID": "60",
+        "Name": "Korozda",
+        "Image": "/img/editions/Sargeras/Korozda.jpg",
+        "Rating": [
+            2,
+            2,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Black",
+            "Green",
+            "Scavenge",
+            "Graveyard",
+            "Sacrifice",
+            "Lifegain",
+            "CMC"
+        ]
+    },
+    "61": {
+        "ID": "61",
+        "Name": "Land of the Deprived",
+        "Image": "/img/editions/Sargeras/Land of the Deprived.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Attack",
+            "Block",
+            "Discard",
+            "Clash"
+        ]
+    },
+    "62": {
+        "ID": "62",
+        "Name": "Lifeweaver Circle",
+        "Image": "/img/editions/Sargeras/Lifeweaver Circle.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Reveal",
+            "Library",
+            "Creature",
+            "Put on battlefield",
+            "Graveyard",
+            "Tutor"
+        ]
+    },
+    "63": {
+        "ID": "63",
+        "Name": "Lost City of Jhazol",
+        "Image": "/img/editions/Sargeras/Lost City of Jhazol.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "64": {
+        "ID": "64",
+        "Name": "Luxa Floodplains",
+        "Image": "/img/editions/Sargeras/Luxa Floodplains.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Gain Mana",
+            "Plane",
+            "Cycling",
+            "Token"
+        ]
+    },
+    "65": {
+        "ID": "65",
+        "Name": "Mastery of the Mind",
+        "Image": "/img/editions/Sargeras/Mastery of the Mind.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "66": {
+        "ID": "66",
+        "Name": "Meteor Field",
+        "Image": "/img/editions/Sargeras/Meteor Field.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Damage",
+            "Planeswalk"
+        ]
+    },
+    "67": {
+        "ID": "67",
+        "Name": "Mind of Emperor Pelagius",
+        "Image": "/img/editions/Sargeras/Mind of Emperor Pelagius.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Cast",
+            "Activate",
+            "Copy",
+            "Instant",
+            "Sorcery"
+        ]
+    },
+    "68": {
+        "ID": "68",
+        "Name": "Mogukai Lighthouse",
+        "Image": "/img/editions/Sargeras/Mogukai Lighthouse.jpg",
+        "Rating": [
+            4,
+            2,
+            7
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "69": {
+        "ID": "69",
+        "Name": "Monastery of the Mystics",
+        "Image": "/img/editions/Sargeras/Monastery of the Mystics.jpg",
+        "Rating": [
+            1,
+            1,
+            1
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Prowess",
+            "Graveyard",
+            "Instant",
+            "Sorcery",
+            "Token"
+        ]
+    },
+    "70": {
+        "ID": "70",
+        "Name": "Mountains of Kher",
+        "Image": "/img/editions/Sargeras/Mountains of Kher.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "ETB",
+            "Pay Mana",
+            "Token",
+            "Copy",
+            "Haste",
+            "Exile"
+        ]
+    },
+    "71": {
+        "ID": "71",
+        "Name": "Nature's Triumph",
+        "Image": "/img/editions/Sargeras/Nature's Triumph.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "72": {
+        "ID": "72",
+        "Name": "Nightmare Factory",
+        "Image": "/img/editions/Sargeras/Nightmare Factory.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Planecounter",
+            "Upkeep",
+            "Sacrifice",
+            "Token"
+        ]
+    },
+    "73": {
+        "ID": "73",
+        "Name": "Nobody Expects The Spanish Inquisition",
+        "Image": "/img/editions/Sargeras/Nobody Expects The Spanish Inquisition.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Reveal",
+            "Discard"
+        ]
+    },
+    "74": {
+        "ID": "74",
+        "Name": "Nozdormu's Realm",
+        "Image": "/img/editions/Sargeras/Nozdormu's Realm.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Suspend",
+            "Plane",
+            "Extra Turn",
+            "Planeswalk"
+        ]
+    },
+    "75": {
+        "ID": "75",
+        "Name": "Nyx, Realm of the Gods",
+        "Image": "/img/editions/Sargeras/Nyx, Realm of the Gods.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "76": {
+        "ID": "76",
+        "Name": "Oona's Hideaway",
+        "Image": "/img/editions/Sargeras/Oona's Hideaway.jpg",
+        "Rating": [
+            4,
+            2,
+            8
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Combat Damage",
+            "Draw",
+            "Discard",
+            "Token",
+            "Flying"
+        ]
+    },
+    "77": {
+        "ID": "77",
+        "Name": "Palace of the Earth kami",
+        "Image": "/img/editions/Sargeras/Palace of the Earth kami.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Library",
+            "Reveal",
+            "Fateseal",
+            "Scry"
+        ]
+    },
+    "78": {
+        "ID": "78",
+        "Name": "Pit of Kamos",
+        "Image": "/img/editions/Sargeras/Pit of Kamos.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "79": {
+        "ID": "79",
+        "Name": "Planar Alignment",
+        "Image": "/img/editions/Sargeras/Planar Alignment.jpg",
+        "Rating": [
+            1,
+            1,
+            1
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Reveal",
+            "Planar Deck",
+            "Planeswalk"
+        ]
+    },
+    "80": {
+        "ID": "80",
+        "Name": "Poisoning the Wells",
+        "Image": "/img/editions/Sargeras/Poisoning the Wells.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "81": {
+        "ID": "81",
+        "Name": "Political Intrigue",
+        "Image": "/img/editions/Sargeras/Political Intrigue.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Draw",
+            "Planeswalk",
+            "Destroy"
+        ]
+    },
+    "82": {
+        "ID": "82",
+        "Name": "Prendrell Vale",
+        "Image": "/img/editions/Sargeras/Prendrell Vale.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Pay Mana",
+            "Sacrifice",
+            "CMC"
+        ]
+    },
+    "83": {
+        "ID": "83",
+        "Name": "Prison of the Ancients",
+        "Image": "/img/editions/Sargeras/Prison of the Ancients.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Lifegain",
+            "Tutor",
+            "Destroy",
+            "CMC"
+        ]
+    },
+    "84": {
+        "ID": "84",
+        "Name": "Qarth",
+        "Image": "/img/editions/Sargeras/Qarth.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "85": {
+        "ID": "85",
+        "Name": "Rajendra's Hold",
+        "Image": "/img/editions/Sargeras/Rajendra's Hold.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Attack",
+            "Static Buff",
+            "First strike",
+            "End Step",
+            "Damage",
+            "Token",
+            "Power"
+        ]
+    },
+    "86": {
+        "ID": "86",
+        "Name": "Realm of Dementia",
+        "Image": "/img/editions/Sargeras/Realm of Dementia.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Reveal",
+            "Hand Cards",
+            "Cast",
+            "Tutor",
+            "Exile"
+        ]
+    },
+    "87": {
+        "ID": "87",
+        "Name": "Realm of Mania",
+        "Image": "/img/editions/Sargeras/Realm of Mania.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "88": {
+        "ID": "88",
+        "Name": "Realms of Authority",
+        "Image": "/img/editions/Sargeras/Realms of Authority.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Cast",
+            "Counter Spell",
+            "Cost Increase"
+        ]
+    },
+    "89": {
+        "ID": "89",
+        "Name": "Rivendel",
+        "Image": "/img/editions/Sargeras/Rivendel.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "90": {
+        "ID": "90",
+        "Name": "Royal Arcaneium",
+        "Image": "/img/editions/Sargeras/Royal Arcaneium.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Monarch",
+            "Cascade",
+            "Scry",
+            "Draw"
+        ]
+    },
+    "91": {
+        "ID": "91",
+        "Name": "Sanctuary",
+        "Image": "/img/editions/Sargeras/Sanctuary.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "92": {
+        "ID": "92",
+        "Name": "Scales of Pitiless Judgement",
+        "Image": "/img/editions/Sargeras/Scales of Pitiless Judgement.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Coin Flip",
+            "Draw",
+            "Discard",
+            "Destroy",
+            "Sacrifice"
+        ]
+    },
+    "93": {
+        "ID": "93",
+        "Name": "Sea of Oregoskos",
+        "Image": "/img/editions/Sargeras/Sea of Oregoskos.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Damage",
+            "Hand Cards",
+            "Blue"
+        ]
+    },
+    "94": {
+        "ID": "94",
+        "Name": "Shelabu, City of Ages",
+        "Image": "/img/editions/Sargeras/Shelabu, City of Ages.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "95": {
+        "ID": "95",
+        "Name": "Shivering Isles",
+        "Image": "/img/editions/Sargeras/Shivering Isles.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Madness",
+            "CMC",
+            "Wheel",
+            "Discard",
+            "Draw"
+        ]
+    },
+    "96": {
+        "ID": "96",
+        "Name": "Sikkai Ruins",
+        "Image": "/img/editions/Sargeras/Sikkai Ruins.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "ETB",
+            "Toughness",
+            "Return to Hand",
+            "Graveyard"
+        ]
+    },
+    "97": {
+        "ID": "97",
+        "Name": "Sky Passages",
+        "Image": "/img/editions/Sargeras/Sky Passages.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Landfall",
+            "Token",
+            "Flying",
+            "Attack",
+            "Draw",
+            "Planeswalk"
+        ]
+    },
+    "98": {
+        "ID": "98",
+        "Name": "Skyrim",
+        "Image": "/img/editions/Sargeras/Skyrim.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Tap",
+            "Fight",
+            "Token",
+            "Flying"
+        ]
+    },
+    "99": {
+        "ID": "99",
+        "Name": "Splintercoves",
+        "Image": "/img/editions/Sargeras/Splintercoves.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Reveal",
+            "Planar Deck",
+            "Untap",
+            "Land"
+        ]
+    },
+    "100": {
+        "ID": "100",
+        "Name": "Stormshadow Harbor",
+        "Image": "/img/editions/Sargeras/Stormshadow Harbor.jpg",
+        "Rating": [
+            4,
+            2,
+            9
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "101": {
+        "ID": "101",
+        "Name": "Stratlaholme",
+        "Image": "/img/editions/Sargeras/Stratlaholme.jpg",
+        "Rating": [
+            4,
+            2,
+            7
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Token",
+            "Legendary",
+            "Artifact",
+            "Equip",
+            "Sacrifice",
+            "Planeswalk"
+        ]
+    },
+    "102": {
+        "ID": "102",
+        "Name": "Sumeriosis",
+        "Image": "/img/editions/Sargeras/Sumeriosis.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Flicker",
+            "Scry"
+        ]
+    },
+    "103": {
+        "ID": "103",
+        "Name": "Sunhome",
+        "Image": "/img/editions/Sargeras/Sunhome.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Planecounter",
+            "Static Buff",
+            "Attack",
+            "White",
+            "Red",
+            "Double strike",
+            "Lifelink"
+        ]
+    },
+    "104": {
+        "ID": "104",
+        "Name": "Taking the Throne",
+        "Image": "/img/editions/Sargeras/Taking the Throne.jpg",
+        "Rating": [
+            4,
+            2,
+            7
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Clash",
+            "Monarch",
+            "Discard",
+            "Sacrifice"
+        ]
+    },
+    "105": {
+        "ID": "105",
+        "Name": "Tear in the Aether",
+        "Image": "/img/editions/Sargeras/Tear in the Aether.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Return to Hand"
+        ]
+    },
+    "106": {
+        "ID": "106",
+        "Name": "Temple of Ascendance",
+        "Image": "/img/editions/Sargeras/Temple of Ascendance.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Planecounter",
+            "Draw",
+            "Hand Cards",
+            "Planeswalk",
+            "Lifegain"
+        ]
+    },
+    "107": {
+        "ID": "107",
+        "Name": "Temple of Revelation",
+        "Image": "/img/editions/Sargeras/Temple of Revelation.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "108": {
+        "ID": "108",
+        "Name": "Temple of Xenagos",
+        "Image": "/img/editions/Sargeras/Temple of Xenagos.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Combat Damage",
+            "Destroy",
+            "Artifact",
+            "Enchantment",
+            "Static Buff",
+            "Power",
+            "Trample"
+        ]
+    },
+    "109": {
+        "ID": "109",
+        "Name": "Thassa's Statuary",
+        "Image": "/img/editions/Sargeras/Thassa's Statuary.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Scry",
+            "Draw",
+            "Tap"
+        ]
+    },
+    "110": {
+        "ID": "110",
+        "Name": "The Aesir",
+        "Image": "/img/editions/Sargeras/The Aesir.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "111": {
+        "ID": "111",
+        "Name": "The Aetherworks",
+        "Image": "/img/editions/Sargeras/The Aetherworks.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Combat Damage",
+            "Artifact",
+            "Token",
+            "Power",
+            "Cast without paying"
+        ]
+    },
+    "112": {
+        "ID": "112",
+        "Name": "The Best Christmas Ever",
+        "Image": "/img/editions/Sargeras/The Best Christmas Ever.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Control Gain"
+        ]
+    },
+    "113": {
+        "ID": "113",
+        "Name": "The Blind Eternum",
+        "Image": "/img/editions/Sargeras/The Blind Eternum.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "114": {
+        "ID": "114",
+        "Name": "The Boilands",
+        "Image": "/img/editions/Sargeras/The Boilands.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Nonbasic Land",
+            "Damage",
+            "Land"
+        ]
+    },
+    "115": {
+        "ID": "115",
+        "Name": "The Cataclysm",
+        "Image": "/img/editions/Sargeras/The Cataclysm.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Sacrifice",
+            "Discard"
+        ]
+    },
+    "116": {
+        "ID": "116",
+        "Name": "The Celestial Tower",
+        "Image": "/img/editions/Sargeras/The Celestial Tower.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Lifegain",
+            "Token",
+            "Vigilance",
+            "Hand Cards"
+        ]
+    },
+    "117": {
+        "ID": "117",
+        "Name": "The Evergrove",
+        "Image": "/img/editions/Sargeras/The Evergrove.jpg",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "118": {
+        "ID": "118",
+        "Name": "The Great Rebirthing",
+        "Image": "/img/editions/Sargeras/The Great Rebirthing.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Draw",
+            "Library"
+        ]
+    },
+    "119": {
+        "ID": "119",
+        "Name": "The Hive Mind",
+        "Image": "/img/editions/Sargeras/The Hive Mind.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Instant",
+            "Sorcery",
+            "Flash",
+            "Cast",
+            "Copy",
+            "Planeswalk"
+        ]
+    },
+    "120": {
+        "ID": "120",
+        "Name": "The Imperial Armory",
+        "Image": "/img/editions/Sargeras/The Imperial Armory.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Equip",
+            "Cost Reduction",
+            "Activate",
+            "Tutor"
+        ]
+    },
+    "121": {
+        "ID": "121",
+        "Name": "The Imperial City",
+        "Image": "/img/editions/Sargeras/The Imperial City.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Token"
+        ]
+    },
+    "122": {
+        "ID": "122",
+        "Name": "The Iron City",
+        "Image": "/img/editions/Sargeras/The Iron City.jpg",
+        "Rating": [
+            4,
+            2,
+            7
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "123": {
+        "ID": "123",
+        "Name": "The Night of the Living Dead",
+        "Image": "/img/editions/Sargeras/The Night of the Living Dead.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Graveyard",
+            "Sacrifice",
+            "Exile",
+            "Put on battlefield"
+        ]
+    },
+    "124": {
+        "ID": "124",
+        "Name": "The Plot Thickens",
+        "Image": "/img/editions/Sargeras/The Plot Thickens.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "125": {
+        "ID": "125",
+        "Name": "The Restoration",
+        "Image": "/img/editions/Sargeras/The Restoration.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "126": {
+        "ID": "126",
+        "Name": "The Retelling",
+        "Image": "/img/editions/Sargeras/The Retelling.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon"
+        ]
+    },
+    "127": {
+        "ID": "127",
+        "Name": "The Riptide",
+        "Image": "/img/editions/Sargeras/The Riptide.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "128": {
+        "ID": "128",
+        "Name": "The Royal Treasury",
+        "Image": "/img/editions/Sargeras/The Royal Treasury.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Reveal",
+            "Library",
+            "Planecounter",
+            "Cast without paying",
+            "Graveyard"
+        ]
+    },
+    "129": {
+        "ID": "129",
+        "Name": "The Throne Room",
+        "Image": "/img/editions/Sargeras/The Throne Room.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Monarch",
+            "Scry",
+            "End Step"
+        ]
+    },
+    "130": {
+        "ID": "130",
+        "Name": "The Vault of Palonius",
+        "Image": "/img/editions/Sargeras/The Vault of Palonius.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "X-cost",
+            "Tutor",
+            "Graveyard",
+            "Mill",
+            "Library",
+            "CMC",
+            "Artifact"
+        ]
+    },
+    "131": {
+        "ID": "131",
+        "Name": "The Void",
+        "Image": "/img/editions/Sargeras/The Void.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Exile",
+            "Put on battlefield"
+        ]
+    },
+    "132": {
+        "ID": "132",
+        "Name": "The Wheel is Spun",
+        "Image": "/img/editions/Sargeras/The Wheel is Spun.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "133": {
+        "ID": "133",
+        "Name": "The World Tree",
+        "Image": "/img/editions/Sargeras/The World Tree.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Planecounter",
+            "Token"
+        ]
+    },
+    "134": {
+        "ID": "134",
+        "Name": "Throne of the Taos",
+        "Image": "/img/editions/Sargeras/Throne of the Taos.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Upkeep",
+            "Token",
+            "Draw",
+            "End Step",
+            "Power",
+            "Monarch",
+            "Legendary"
+        ]
+    },
+    "135": {
+        "ID": "135",
+        "Name": "Through the Dark Portal",
+        "Image": "/img/editions/Sargeras/Through the Dark Portal.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Planar Deck",
+            "Reveal",
+            "Planeswalk"
+        ]
+    },
+    "136": {
+        "ID": "136",
+        "Name": "Tracker's Bureau",
+        "Image": "/img/editions/Sargeras/Tracker's Bureau.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Landfall",
+            "Investigate",
+            "Land",
+            "Tap",
+            "Draw"
+        ]
+    },
+    "137": {
+        "ID": "137",
+        "Name": "Traitor's Keep",
+        "Image": "/img/editions/Sargeras/Traitor's Keep.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Red",
+            "Haste",
+            "Control Gain",
+            "Untap",
+            "Static Buff"
+        ]
+    },
+    "138": {
+        "ID": "138",
+        "Name": "Transplanar Truce",
+        "Image": "/img/editions/Sargeras/Transplanar Truce.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Attack",
+            "Prevent Damage"
+        ]
+    },
+    "139": {
+        "ID": "139",
+        "Name": "Trial by Combat",
+        "Image": "/img/editions/Sargeras/Trial by Combat.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Clash",
+            "Draw",
+            "Lifegain",
+            "Reveal",
+            "Damage",
+            "CMC"
+        ]
+    },
+    "140": {
+        "ID": "140",
+        "Name": "Twilight Chapel",
+        "Image": "/img/editions/Sargeras/Twilight Chapel.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Discard",
+            "Token",
+            "Flying"
+        ]
+    },
+    "141": {
+        "ID": "141",
+        "Name": "Ulvenwald",
+        "Image": "/img/editions/Sargeras/Ulvenwald.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Upkeep",
+            "Return to Hand",
+            "Graveyard",
+            "Tutor"
+        ]
+    },
+    "142": {
+        "ID": "142",
+        "Name": "Uncertain Future",
+        "Image": "/img/editions/Sargeras/Uncertain Future.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Vote",
+            "Destroy",
+            "Lifegain",
+            "Creature"
+        ]
+    },
+    "143": {
+        "ID": "143",
+        "Name": "Undiscovered Paradise",
+        "Image": "/img/editions/Sargeras/Undiscovered Paradise.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "ETB",
+            "Explore",
+            "Legendary",
+            "Token",
+            "Planeswalk"
+        ]
+    },
+    "144": {
+        "ID": "144",
+        "Name": "Utter Distortion",
+        "Image": "/img/editions/Sargeras/Utter Distortion.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "145": {
+        "ID": "145",
+        "Name": "Valley of Idols",
+        "Image": "/img/editions/Sargeras/Valley of Idols.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "146": {
+        "ID": "146",
+        "Name": "Visions of Grandeur",
+        "Image": "/img/editions/Sargeras/Visions of Grandeur.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Scry"
+        ]
+    },
+    "147": {
+        "ID": "147",
+        "Name": "Vitu-Ghazi",
+        "Image": "/img/editions/Sargeras/Vitu-Ghazi.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "148": {
+        "ID": "148",
+        "Name": "Whimsydale",
+        "Image": "/img/editions/Sargeras/Whimsydale.jpg",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "149": {
+        "ID": "149",
+        "Name": "Willed Resources",
+        "Image": "/img/editions/Sargeras/Willed Resources.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Sacrifice",
+            "Graveyard",
+            "Return to Hand",
+            "Draw"
+        ]
+    },
+    "150": {
+        "ID": "150",
+        "Name": "Winds of Change",
+        "Image": "/img/editions/Sargeras/Winds of Change.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Damage",
+            "Flying",
+            "Discard",
+            "Draw",
+            "Wheel"
+        ]
+    },
+    "151": {
+        "ID": "151",
+        "Name": "Wintermaul's Dungeon",
+        "Image": "/img/editions/Sargeras/Wintermaul's Dungeon.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "152": {
+        "ID": "152",
+        "Name": "Wissenspool",
+        "Image": "/img/editions/Sargeras/Wissenspool.jpg",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "153": {
+        "ID": "153",
+        "Name": "Worldfusing",
+        "Image": "/img/editions/Sargeras/Worldfusing.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Phenomenon",
+            "Planar Deck",
+            "Reveal",
+            "Planeswalk"
+        ]
+    },
+    "154": {
+        "ID": "154",
+        "Name": "Zameck",
+        "Image": "/img/editions/Sargeras/Zameck.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "155": {
+        "ID": "155",
+        "Name": "Zanzibar, Grand Bazaar",
+        "Image": "/img/editions/Sargeras/Zanzibar, Grand Bazaar.jpg",
+        "Rating": [
+            2,
+            1,
+            2
+        ],
+        "Edition": "Sargeras",
+        "Tags": []
+    },
+    "156": {
+        "ID": "156",
+        "Name": "Ziggurat of the Afterlife",
+        "Image": "/img/editions/Sargeras/Ziggurat of the Afterlife.jpg",
+        "Rating": [
+            3,
+            1,
+            3
+        ],
+        "Edition": "Sargeras",
+        "Tags": [
+            "Plane",
+            "Eternalize",
+            "Token",
+            "Copy",
+            "Planeswalk"
+        ]
+    }
+}

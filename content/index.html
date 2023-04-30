@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MTG Planechad</title>
+    <base href="/">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+  </head>
+  <body> 
+
+    <div id="overlay" onclick="overlayOff(event)">
+      <div class="options" onclick="overlayOff(event)">
+        <div class ="header" onclick="overlayOff(event)" style="grid-column-start: 1;">
+          <label>Editons</label>
+        </div>
+        <div class ="option" onclick="overlayOff(event)" style="grid-column-start: 1;grid-row-start: 2; grid-row-end: 3;">
+          <label>Official</label>
+          <input checked class="editioncheck" type="checkbox" name="option_edition_Official" value="Official"></input>
+        </div>
+        <div class ="option" onclick="overlayOff(event)" style="grid-column-start: 1;grid-row-start: 3; grid-row-end: 4;">
+          <label>Kaluun</label>
+          <input checked class="editioncheck" type="checkbox" name="option_edition_Kaluun" value="Kaluun"></input>
+        </div>
+        <div class ="option" onclick="overlayOff(event)" style="grid-column-start: 1;grid-row-start: 5; grid-row-end: 6;">
+          <label>Sargeras</label>
+          <input checked class="editioncheck" type="checkbox" name="option_edition_Sargeras" value="Sargeras"></input>
+        </div>
+        <div class ="option" onclick="overlayOff(event)" style="grid-column-start: 1;grid-row-start: 7; grid-row-end: 8;">
+          <label>Irgad</label>
+          <input checked class="editioncheck" type="checkbox" name="option_edition_Irgad" value="Irgad"></input>
+        </div>
+        <div id="ratingoption" class ="header" onclick="overlayOff(event)" >
+          <label>Rating</label>
+        </div>
+        <div class ="option" onclick="overlayOff(event)" style="grid-column-start: 2; grid-row-start: 2; grid-row-end: 3;">
+          <label>>=</label>
+          <input id="ratinginput" placeholder="0" min="0" max="5" type="number"></input>
+        </div>
+        <div id="tagoption" class ="header" onclick="overlayOff(event)">
+          <label>Tags</label>
+        </div>
+        <div class ="option" onclick="overlayOff(event)" style="grid-column-start: 3; grid-row-start: 2; grid-row-end: 3;">
+          <label>Exclude</label>
+          <input type="text" id="tagexcludeinput" placeholder="Tag1,Tag2,Tag3,..."></input>
+        </div>
+        <div class="option tag_wrap" style="grid-column-start: 3; grid-row-start: 3; grid-row-end: 4;">
+          <label>Add tags</label>
+          <input type="text" id="tag_txt" placeholder="Type and enter ...">
+        </div>
+        
+      </div>
+      <div id="tagarea">
+        
+      </div>
+      
+      
+    </div> 
+    
+    <div class="sidebarMenu">
+      <div onclick="rollDice()">
+        <a id="diceResult">6</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="container">
+        <img id="imageId" src="/img/Background.png" style="width:100%" onclick="startRound()">
+        <div class="cardOverlay">
+          <div class="deckMenu" onclick=overlayOn()>
+            <a id="menuButton" class="fa fa-navicon"> </a>
+          </div>
+          <div class="rating">
+            <span class="star fa fa-star checked" onclick="selectStar(1,false)"></span>
+            <span class="star fa fa-star checked" onclick="selectStar(2,false)"></span>
+            <span class="star fa fa-star checked"onclick="selectStar(3,false)"></span>
+            <span class="star fa fa-star checked"onclick="selectStar(4,false)"></span>
+            <span class="star fa fa-star checked"onclick="selectStar(5,false)"></span>
+          </div>
+          <div id="counter">
+            <div class="fa fa-eercast counter" onclick="selectCounter(1)"></div>
+            <div class="fa fa-eercast counter" onclick="selectCounter(2)"></div>
+            <div class="fa fa-eercast counter" onclick="selectCounter(3)"></div>
+            <div class="fa fa-eercast counter" onclick="selectCounter(4)"></div>
+            <div class="fa fa-eercast counter" onclick="selectCounter(5)" style="margin-bottom: auto;"></div>
+            <div class="fa fa-eercast counter" onclick="selectCounter(6)"></div>
+            <div class="fa fa-eercast counter" onclick="selectCounter(7)"></div>
+            <div class="fa fa-eercast counter" onclick="selectCounter(8)"></div>
+            <div class="fa fa-eercast counter" onclick="selectCounter(9)"></div>
+            <div class="fa fa-eercast counter" onclick="selectCounter(10)"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+  </body>
+</html>

@@ -1,0 +1,158 @@
+{
+    "0": {
+        "ID": "0",
+        "Name": "Artificial World",
+        "Image": "/img/editions/Irgad/Artificial World.png",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "1": {
+        "ID": "1",
+        "Name": "Deathbloom",
+        "Image": "/img/editions/Irgad/Deathbloom.png",
+        "Rating": [
+            4,
+            1,
+            4
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "2": {
+        "ID": "2",
+        "Name": "Enchanted Castle",
+        "Image": "/img/editions/Irgad/Enchanted Castle.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "3": {
+        "ID": "3",
+        "Name": "Feral Muccus",
+        "Image": "/img/editions/Irgad/Feral Muccus.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "4": {
+        "ID": "4",
+        "Name": "Land of Eternals",
+        "Image": "/img/editions/Irgad/Land of Eternals.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "5": {
+        "ID": "5",
+        "Name": "Monument of Peace",
+        "Image": "/img/editions/Irgad/Monument of Peace.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "6": {
+        "ID": "6",
+        "Name": "Otherworldly Cavern",
+        "Image": "/img/editions/Irgad/Otherworldly Cavern.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "7": {
+        "ID": "7",
+        "Name": "Supreme Arts Mountain",
+        "Image": "/img/editions/Irgad/Supreme Arts Mountain.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "8": {
+        "ID": "8",
+        "Name": "Tainted Sacrife",
+        "Image": "/img/editions/Irgad/Tainted Sacrife.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "9": {
+        "ID": "9",
+        "Name": "The Machine Spirit",
+        "Image": "/img/editions/Irgad/The Machine Spirit.png",
+        "Rating": [
+            5,
+            1,
+            5
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "10": {
+        "ID": "10",
+        "Name": "Tree of False Ascension",
+        "Image": "/img/editions/Irgad/Tree of False Ascension.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "11": {
+        "ID": "11",
+        "Name": "Umbral Train",
+        "Image": "/img/editions/Irgad/Umbral Train.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    },
+    "12": {
+        "ID": "12",
+        "Name": "Untamed Thicket",
+        "Image": "/img/editions/Irgad/Untamed Thicket.png",
+        "Rating": [
+            0,
+            0,
+            0
+        ],
+        "Edition": "Irgad",
+        "Tags": []
+    }
+}
